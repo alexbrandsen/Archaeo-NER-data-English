@@ -1,6 +1,6 @@
 # Archaeo NER data (English)
 
-This repo contains annotated NER data in the BIO format, for the following archaeological entity types:
+This repo contains annotated NER data, for the following archaeological entity types:
 
 - Artefacts (objects)
 - Time Periods
@@ -10,6 +10,8 @@ This repo contains annotated NER data in the BIO format, for the following archa
 - Species
 
 This data has been annotated by 2 archaeology students at native English level. 
+
+The files are in the BIO format, so 1 token per line, followed by the POS and label, separated by spaces. Sentence boundaries are denoted by a double line ending. 
 
 ## Files
 
